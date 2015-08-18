@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springdata-exmaples.iml" filepath="$PROJECT_DIR$/springdata-exmaples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-mongodb/springdata-mongodb.iml" filepath="$PROJECT_DIR$/springdata-mongodb/springdata-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-redis/springdata-redis.iml" filepath="$PROJECT_DIR$/springdata-redis/springdata-redis.iml" />
+    </modules>
+  </component>
+</project>
